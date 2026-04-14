@@ -1,0 +1,1104 @@
+Abbotsford
+Aberfeldie
+Airport West
+Albanvale
+Albert Park
+Albion
+Alphington
+Altona Meadows
+Altona North
+Altona
+Ardeer
+Armadale
+Arthurs Seat
+Ascot Vale
+Ashburton
+Ashwood
+Aspendale
+Aspendale Gardens
+Attwood
+Auburn
+Avondale Heights
+Avonsleigh
+Balaclava
+Balwyn
+Balwyn North
+Bangholme
+Baxter
+Bayswater
+Bayswater North
+Beaconsfield
+Beaumaris
+Belgrave
+Belgrave Heights
+Belgrave South
+Bellfield
+Bennettswood
+Bentleigh
+Bentleigh East
+Berwick
+Bittern
+Black Rock
+Blackburn
+Blackburn North
+Blackburn South
+Blairgowrie
+Bonbeach
+Boronia
+Box Hill
+Box Hill North
+Box Hill South
+Braeside
+Braybrook
+Briar Hill
+Brighton
+Brighton East
+Broadmeadows
+Brookfield
+Brooklyn
+Brunswick
+Brunswick East
+Brunswick West
+Bulleen
+Bundoora
+Burnley
+Burnside
+Burnside Heights
+Burwood
+Burwood East
+Cairnlea
+Calder Park
+Camberwell
+Campbellfield
+Canterbury
+Carlton North
+Carlton
+Carnegie
+Caroline Springs
+Carrum
+Carrum Downs
+Caulfield
+Caulfield East
+Caulfield North
+Caulfield South
+Chadstone
+Chelsea
+Chelsea Heights
+Cheltenham
+Chirnside Park
+Clarinda
+Clayton
+Clayton South
+Clematis
+Clifton Hill
+Coburg
+Coburg North
+Cocoroc
+Coldstream
+Collingwood
+Coolaroo
+Craigieburn
+Cranbourne
+Cranbourne East
+Cranbourne North
+Cranbourne South
+Cranbourne West
+Cremorne
+Crib Point
+Croydon
+Croydon Hills
+Croydon North
+Croydon South
+Dallas
+Dandenong
+Dandenong North
+Dandenong South
+Deer Park
+Delahey
+Derrimut
+Diamond Creek
+Dingley Village
+Docklands
+Doncaster
+Doncaster East
+Donvale
+Doreen
+Doveton
+Dromana
+Eaglemont
+East Melbourne
+Edithvale
+Elsternwick
+Eltham
+Eltham North
+Elwood
+Emerald
+Endeavour Hills
+Epping
+Essendon Fields
+Essendon North
+Essendon West
+Essendon
+Eumemmerring
+Fairfield
+Fawkner
+Ferntree Gully
+Ferny Creek
+Fitzroy
+Fitzroy North
+Flemington
+Footscray
+Forest Hill
+Frankston
+Frankston North
+Frankston South
+Gardenvale
+Gladstone Park
+Glen Huntly
+Glen Iris
+Glen Waverley
+Glenroy
+Gowanbrae
+Greensborough
+Greenvale Lakes
+Greenvale
+Guys Hill
+Hadfield
+Hallam
+Hampton
+Hampton East
+Hampton Park
+Harkaway
+Hawthorn
+Hawthorn East
+Heatherdale
+Heatherton
+Heathmont
+Heidelberg
+Heidelberg Heights
+Heidelberg West
+Highett
+Hillside
+Hoppers Crossing
+Houston
+Hughesdale
+Huntingdale
+Hurstbridge
+Ivanhoe
+Ivanhoe East
+Jacana
+Junction Village
+Kallista
+Kalorama
+Karingal
+Kealba
+Keilor
+Keilor Downs
+Keilor East
+Keilor Lodge
+Keilor North
+Keilor Park
+Kensington
+Kerrimuir
+Kew
+Kew East
+Keysborough
+Kilsyth
+Kilsyth South
+Kings Park
+Kingsbury
+Kingsville
+Knoxfield
+Kooyong
+Kurunjang
+Laburnum
+Lalor
+Langwarrin
+Langwarrin South
+Laverton
+Laverton North
+Lilydale
+Lower Plenty
+Lynbrook
+Lyndhurst
+Lysterfield
+Lysterfield South
+Macclesfield
+McCrae
+McKinnon
+Macleod
+Maidstone
+Malvern
+Malvern East
+Maribyrnong
+Meadow Heights
+Melbourne Airport
+Melton
+Melton South
+Melton West
+Mentone
+Menzies Creek
+Mernda
+Mickleham
+Middle Park
+Milgate Park Estate
+Mill Park
+Mitcham
+Monbulk
+Mont Albert
+Mont Albert North
+Montmorency
+Montrose
+Moonee Ponds
+Moorabbin Airport
+Moorabbin
+Moorooduc
+Mooroolbark
+Mordialloc
+Mornington
+Mount Dandenong
+Mount Eliza
+Mount Evelyn
+Mount Martha
+Mount Waverley
+Mulgrave
+Narre Warren East
+Narre Warren North
+Narre Warren South
+Narre Warren
+Newport
+Niddrie
+Noble Park
+Noble Park North
+North Melbourne
+North Richmond
+North Warrandyte
+Northcote
+Norwood
+Notting Hill
+Nunawading
+Oak Park
+Oaklands Junction
+Oakleigh
+Oakleigh East
+Oakleigh South
+Olinda
+Olivers Hill
+Ormond
+Pakenham
+Panton Hill
+Park Orchards
+Parkdale
+Parkville
+Pascoe Vale South
+Pascoe Vale
+The Patch
+Patterson Lakes
+Pennydale
+Plenty
+Point Cook
+Port Melbourne
+Portsea
+Prahran
+Preston
+Princes Hill
+Ravenhall
+Research
+Reservoir
+Richmond
+Ringwood
+Ringwood East
+Ringwood North
+Ripponlea
+Rockbank
+Rosanna
+Rosebud
+Rosebud West
+Rowville
+Roxburgh Park
+Rye
+Safety Beach
+St Albans
+St Helena
+Sandhurst
+Sandringham
+Sassafras
+Scoresby
+Seabrook
+Seaford
+Seaholme
+Seddon
+Selby
+Seville
+Sherbrooke
+Skye
+Somerton
+Sorrento
+South Kingsville
+South Melbourne
+South Morang
+South Wharf
+South Yarra
+Southbank
+Spotswood
+Springvale
+Springvale South
+Strathmore
+Strathmore Heights
+Sunbury
+Sunshine
+Sunshine North
+Sunshine West
+Surrey Hills
+Sydenham
+Syndal
+Tally Ho
+Tarneit
+Taylors Hill
+Taylors Lakes
+Tecoma
+Templestowe
+Templestowe Lower
+The Basin
+Thomastown
+Thornbury
+Toorak
+Tootgarook
+Tottenham
+Travancore
+Tremont
+Truganina
+Tullamarine
+Upfield
+Upper Ferntree Gully
+Upwey
+Vermont
+Vermont South
+Viewbank
+Wantirna
+Wantirna South
+Warrandyte
+Warrandyte South
+Warranwood
+Waterways
+Watsonia
+Watsonia North
+Wattle Glen
+Waverley Park
+Werribee
+Werribee South
+West Footscray
+West Melbourne
+Westgarth
+Westmeadows
+Wheelers Hill
+Wildwood
+Williams Landing
+Williamstown
+Williamstown North
+Windsor
+Wonga Park
+Wyndham Vale
+Yallambie
+Yarrambat
+Yarraville
+Yuroke
+Aircraft
+Alamein
+Alauda Siding
+Albacutya
+Albert Park
+Albion
+Albion Grain Siding
+Albion Loop
+Albury
+Alphington
+Altona
+Altona Junction
+Alumatta Loop
+Amphitheatre
+Annuello
+Anstey
+Antwerp
+Anzac
+ANZAC Siding
+APEX Westall
+Appleton Dock
+Ararat
+Ardeer
+Arden
+Arkona
+Armadale
+Ascot Vale
+Ashburton
+Aspendale
+Auburn
+Australian Window Glass Siding
+Avenel
+Avoca
+Bacchus Marsh
+Bairnsdale
+Balaclava
+Ballan
+Ballarat
+Ballarat East
+Ballarat Workshops
+Balmattum
+Balranald
+Bandiana
+Bank Box Loop
+Bannerton
+Barnawartha
+Barnes
+Barrakee
+Barraport
+Barwon Park Loop
+Batchica Siding
+Batman
+Baxter
+Bayswater
+Beaconsfield
+Bealiba
+Beaufort
+Belgrave
+Bell
+Bena
+Benalla
+Bendigo
+Bentleigh
+Berriwillock
+Berrybank Loop
+Berwick
+Beulah
+Beulah GEB Siding
+Beveridge
+Birchip
+Birregurra
+Bittern
+Blackburn
+Boigbeat
+Bolton
+Bombardier Siding
+Bonbeach
+Bonlac Foods Limited Siding
+Boorcan
+Boort
+Boort GEB Siding
+Boral Resources Siding
+Boronia
+Borung
+Bowser
+Box Hill
+Bridgewater
+Brighton Beach
+Brim
+Broadford
+Broadford Loop
+Broadmeadows
+Bronzewing
+Brooklyn
+Brooklyn SG
+Brunswick
+Buangor
+Buckrabanyule
+Bung Bong Siding
+Bungaree Loop
+Bunnaloo
+Bunyip
+Burnley
+Burnley Stabling Sidings
+Burraboi
+Burrumbeet
+Burwood
+Calder Park
+Caldwell
+California Gully Siding
+Camberwell
+Camperdown
+Cannie
+Canterbury
+Cardinia Road
+Carina
+Carlsruhe
+Carnegie
+Caroline Springs
+Carrum
+Carwarp
+Castlemaine
+Caulfield
+Charlton
+Chatham
+Chelsea
+Cheltenham
+Chillingollah
+Chiltern
+Chiltern Loop
+Chinkapook
+Chrome Loop
+Clarkefield
+Clayton
+Clifton Hill
+Clunes
+Clyde
+Cobblebank
+Cobblebank Stabling Yard
+Cobram
+Coburg
+Cocamba
+Collingwood
+Condah
+Congupna
+Coolaroo
+Cope Cope
+Corio
+Corio Quay
+Corio Shell
+Coromby
+Cosgrove
+Cowangie
+Craigieburn
+Cranbourne
+Crib Point
+Croxton
+Croydon
+CRT Siding
+Culgoa
+Curyo
+Dahlen
+Dandenong
+Darebin
+Darling
+Darnum
+Deep Lead
+Deer Park
+Deniliquin
+Dennington
+Dennis
+Devenish
+Diamond Creek
+Diapur Loop
+Diggers Rest
+Dimboola
+Dimboola - AWB Site
+Dimboola Loop
+Dingee
+Dobie
+Donald
+Donnybrook
+Donnybrook Loop
+Dooen
+Dookie
+Drouin
+Dumosa
+Dunkeld
+Dunolly
+Dynon
+Dysart
+Eaglehawk
+Eaglemont
+East Camberwell
+East Malvern
+East Pakenham
+East Richmond
+Echuca
+Edithvale
+Elders Loop
+Ellam
+Elmhurst
+Elmore
+Elphinstone
+Elsternwick
+Eltham
+Emu
+Epping
+Essendon
+Euroa
+Fairfield
+Fawkner
+Fernbank
+Ferntree Gully
+Fiery Creek
+Flagstaff
+Flemington Bridge
+Flemington Racecourse
+Flinders Street
+Footscray
+Frankston
+Galah
+Galaquil
+Gama
+Gardenvale
+Gardiner
+Garfield
+Geelong
+Geelong Racecourse
+General Motors
+Gerang Gerung
+Gheringhap
+Ginifer
+Gippsland Intermodal Freight Terminal
+Gisborne
+Glen Huntly
+Glen Iris
+Glen Thompson
+Glen Thompson Loop
+Glen Waverley
+Glenbervie
+Glenferrie
+Glenloth
+Glenorchy
+Glenrowan Loop
+Glenroy
+Golden Square
+Goninans Siding
+Goorambat
+Goornong
+Gowanford
+Gowrie
+Goyura
+Graham
+Grampians Loop
+Great Western Loop
+Gredgwin
+Greens Road
+Greensborough
+Hallam
+Hamilton
+Hampton
+Harcourt
+Hartwell
+Hastings
+Hattah
+Hawksburn
+Hawkstowe
+Hawthorn
+Healesville
+Heathcote Junction
+Heatherdale
+Heatherton
+Heathmont
+Heidelberg
+Hernes Oak
+Hesse
+Heyington
+Heywood
+Highett
+Hillside
+Holmesglen
+Hopetoun
+Hoppers Crossing
+Horsham
+Hughesdale
+Hunter Block Point
+Huntingdale
+Hurstbridge
+Iluka Siding
+Inglewood
+Inverleigh
+Irymple
+Ivanhoe
+Jacana
+Jeparit
+Jewell
+Jolimont
+Jordanville
+Jung
+Kananook
+Kananook Stabling Yard
+Kangaroo Flat
+Kaniva
+Kaniva Loop
+Katunga
+Keilor Plains
+Kensington
+Keon Park
+Kerang
+Kiamal
+Kiata
+Kilmore East
+Kilmore East Grade Crossing
+Kilmore East Quarry Siding
+Kinnabulla
+Koala
+Koo Wee Rup
+Kooyong
+Korong Vale
+Korumburra
+Kulwin
+Kurting
+Kyabram
+Kyneton
+Laburnum
+Lah
+Lake Boga
+Lal Lal
+Lalbert
+Lalor
+Lang Lang
+Langwarrin
+Lara
+Lascelles
+Laverton
+Leawarra
+Leeor Loop
+Leichardt
+Leongatha
+Lethbridge
+Lillimur
+Lilydale
+Linga
+Linton Junction
+Litchfield
+Little River
+Llanelly
+Loch
+Long Island
+Long Island Junction
+Longwarry
+Longwood
+Lubeck
+Lynbrook
+Lyndbrook
+Lyndhurst
+Macaulay
+Macaulay Stabling Sidings
+Macedon
+Macleod
+Macorna
+Maddingley Sidings
+Maidstone
+Malmsbury
+Malvern
+Manangatang
+Manor Junction
+Manor Loop
+Maribyrnong River Junction
+Maribyrnong River Terminal
+Marmalake
+Marong
+Maroona
+Marshall
+Maryborough
+Maryvale Exchange Siding
+Maryvale Mill
+Massey
+Mathoura
+McIntyre Loop
+McKinnon
+Meatian
+Melbourne Central
+Melton
+Mentone
+Merbein
+Meredith
+Merinda Park
+Merlynston
+Mernda
+Merri
+Merrigum
+Metrol
+Middle Brighton
+Middle Footscray
+Middle Gorge
+Middle Park
+Mildura
+Mildura Cement Siding
+Mildura Oil Siding
+Millbrook Loop
+Minyip
+Miralie
+Miram
+Mitcham
+Mitiamo
+Mittyack
+Moe
+Moira Block Point
+Mokoan Block Point
+Monomeith
+Mont Albert
+Montague
+Montmorency
+Moonee Ponds
+Moorabbin
+Mooroolbark
+Mooroopna
+Mordialloc
+Moreland
+Mornington
+Morradoo
+Morton Plains
+Morwell
+Morwell Briquette Siding
+Morwell Industrial Siding
+Moulamein
+Mount Waverley
+Mulyarra
+Munistone
+Murchison East
+Murrayville
+Murrumbeena
+Murtoa
+Murtoa Loop
+Mysia Block Point
+Mystic Park
+Nagambie
+Nandaly
+Nar Nar Goon
+Narre Warren
+Newmarket
+Newport
+Newport SG
+Newport South
+Newport Stabling Sidings
+Newport Workshops
+Nhill
+Ninda
+Noble Park
+North Ballarat Junction
+North Bendigo Junction
+North Brighton
+North Geelong
+North Melbourne
+North Port
+North Richmond
+North Shore
+North Williamstown
+Northcote
+NRC Freight Terminal Melbourne
+NRC Melbourne Steel Terminal
+Nullan
+Nullawil
+Numurkah
+Nunawading
+Nunga
+Nyah West
+Nyarrin
+Nyora
+Oak Park
+Oaklands
+Oakleigh
+Oakvale
+Officer
+Ormond
+Ouyen
+Pakenham
+Pakenham East
+Pakenham East Depot
+Panitya
+Parkdale
+Parkville
+Parliament
+Parwan Loop
+Pascoe Vale
+Patterson
+Piangil
+Pier Millan
+Pimpinio
+Pimpinio Loop
+Pine Lodge
+Port Melbourne
+Portland
+Prahran
+Prairie
+Preston
+Pullut
+Pyramid
+Pyrenees Loop
+Quambatook
+Rainbow
+Ravenswood
+Raywood
+Redcliffs
+Regent
+Rennie
+Reservoir
+Richmond
+Richmond Junction
+Riddells Creek
+Riggs Creek Loop
+Ringwood
+Ringwood East
+Ripponlea
+Riversdale
+Robinsons Road Junction
+Robinvale
+Rochester
+Rockbank
+Rosanna
+Rosebery
+Rosedale
+Rowsley Loop
+Roxburgh Park
+Royal Park
+Ruby
+Rupertswood
+Rushall
+Ruthven
+Sale
+Sale Industrial Siding
+Salisbury Loop
+Sandown Park
+Sandringham
+Sanger
+Sea Lake
+Seaford
+Seaholme
+Seddon
+Serviceton
+Seymour
+Shepparton
+Showgrounds
+Sloane
+Somerton
+Somerton Loop
+Somerville
+South Dynon
+South Geelong
+South Kensington
+South Melbourne
+South Morang
+South Yarra
+Southern Cross
+Southland
+Spotswood
+Springhurst
+Springvale
+St Albans
+St Arnaud
+St James
+St Kilda
+State Library
+Stawell
+Stony Point
+Stratford
+Strathmerton
+Strathmore
+Sulky Loop
+Sunbury
+Sunshine
+Sunshine SG Platform
+Surrey Hills
+Sutherland
+Swan Hill
+Swanwater
+Syndal
+Talbot Loop
+Tallarook
+Tallarook Loop
+Tallygaroopna
+Tandarra
+Taradale
+Tarneit
+Tarpaulin Shed
+Tarranginnie
+Tarranyurk
+Tatura
+Tatyoon Loop
+Tecoma
+Teddywaddy
+Telford
+Tempy
+Terang
+Thomastown
+Thornbury
+Tocumwal
+Tongala
+Toolamba
+Tooli
+Tooradin
+Toorak
+Tooronga
+Torrita
+Tottenham
+Tottenham Loop
+Tourello Loop
+Town Hall
+Trafalgar
+Traralgon
+Truganina
+Tullamarine Loop
+Tungamah
+Turriff
+Tutye
+Tyabb
+Tynong
+Ultima
+Uncle Bens Siding
+Underbool
+Union
+Upfield
+Upper Ferntree Gully
+Upwey
+Viaduct Junction
+Victoria Park
+Violet Town
+Violet Town Loop
+Vite Vite Loop
+Wail
+Waitchie
+Wakool
+Wallan
+Wallan Loop
+Walpeup
+Wandong
+Wangamong
+Wangaratta
+Warne
+Warracknabeal
+Warrackside
+Warragoon
+Warragul
+Warrenheip
+Warrnambool
+Watchem
+Watchupga
+Watergardens
+Watsonia
+Wattle Glen
+Waurn Ponds
+Wendouree
+Werneth
+Werribee
+Werribee Racecourse
+West Footscray
+West Richmond
+West Tarneit
+West Tower
+Westall
+Westall Pioneer Siding
+Westgarth
+Westmere
+Westmere Loop
+Westona
+White City
+Whittlesea
+Willaura
+Williams Landing
+Williamstown
+Williamstown Beach
+Williamstown Pier
+Willison
+Wiltshire Loop
+Winchelsea
+Windsor
+Wingeel Loop
+Wodonga
+Wodonga Coal Sidings
+Wodonga Loop
+Wolseley
+Womboota
+Woodend
+Woomelang
+Woorinen
+Wunghnu
+Wycheproof
+Wychitella
+Wyndham Vale
+Yaapeet
+Yarra Glen
+Yarragon
+Yarraman
+Yarraville
+Yarrawonga
+Yatpool
+Yelta
