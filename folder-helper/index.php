@@ -76,7 +76,7 @@ function runSearch($date)
 				if ($word === '') continue;
 
 				foreach ($imageTitles as $title) {
-					if (stripos($title, $word . " Street") !== false) {
+					if (stripos($title, $word . " Street") !== false || stripos($title, $word . " and ") !== false) {
 						if (stripos($title, $word . " Street crossover") === false 
 							&& stripos($title, "and " . $word) === false) {
 							$matchingStreets[] = $word;
