@@ -140,7 +140,7 @@ function runSearch($date)
 						&& stripos($title, "from Alstom " . $word) === false
 						&& stripos($title, "up " . $word) === false
 						&& stripos($title, "for " . $word) === false
-						&& stripos($title, "to " . $word) === false
+						&& stripos($title, " to " . $word) === false
 						&& stripos($title, "from " . $word) === false
 						&& stripos($title, "and " . $word) === false
 						&& stripos($title, "brighton " . $word) === false
